@@ -1,6 +1,10 @@
 
-h1, h2{
-margin-top:0;
+h1 {
+font-family: 'Pacifico', cursive;
+font-size:3em;
+}
+
+h2{
 font-family: 'Pacifico', cursive;
 }
 
@@ -9,22 +13,23 @@ ul {font-family: Arial;
 }
 
 .page1 {
-background-color:#fff5eb;
+background-color:#deeeea;
 color:#bf1363;
 text-align:center;
 padding:0px 0px 0 0px;
 height:100%;
+font-size:30px;
 }
 
 .page2 {
-background-color:#deedf0;;
+background-color:#d5dbb3;
 text-align:center;
 padding:25px 50px 25px 100px;
 margin:0;
 }
 
 .page3 {
-background-color:#fff5eb;
+background-color:#39a6a3;
 text-align:center;
 margin:0;
 padding:25px 50px 25px 100px;
