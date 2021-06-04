@@ -20,13 +20,14 @@ height:100%;
 background-color:#deedf0;;
 text-align:center;
 padding:25px 50px 25px 100px;
-height:100%;
+margin:0;
 }
 
 .page3 {
-background-color:#f4c7ab;
+background-color:#fff5eb;
 text-align:center;
-height:100%;
+margin:0;
+padding:25px 50px 25px 100px;
 }
 
 .cloud-bottom {
