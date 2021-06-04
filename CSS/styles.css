@@ -1,0 +1,44 @@
+
+h1, h2{
+margin-top:0;
+font-family: 'Pacifico', cursive;
+}
+
+h3 {font-family: 'Lobster', cursive;}
+ul {font-family: Arial;
+}
+
+.page1 {
+background-color:#fff5eb;
+color:#bf1363;
+text-align:center;
+padding:0px 0px 0 0px;
+height:100%;
+}
+
+.page2 {
+background-color:#deedf0;;
+text-align:center;
+padding:25px 50px 25px 100px;
+height:100%;
+}
+
+.page3 {
+background-color:#f4c7ab;
+text-align:center;
+height:100%;
+}
+
+.cloud-bottom {
+position:relative;
+bottom: 150px;
+left: 250px;
+}
+.cloud-top {
+position:relative;
+right: 250px;
+top: 100px;
+}
+
+#Imphoto { border-radius: 100px;
+}
